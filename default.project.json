@@ -1,0 +1,14 @@
+{
+  "name": "MultiverseSystem",
+  "tree": {
+    "$className": "DataModel",
+
+
+    "ServerScriptService": {
+      "MultiverseSystem": {
+        "$path": "src"
+      }
+
+    }
+  }
+}
